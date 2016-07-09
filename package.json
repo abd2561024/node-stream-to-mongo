@@ -14,7 +14,7 @@
   "author": "Stanislas Marion",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "2"
+    "mongodb": "2.0.48"
   },
   "devDependencies": {
     "mocha": "~1.12.0",
